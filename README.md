@@ -3,4 +3,4 @@ What we did in class
 1. Github repo creation
 2. Github repo cloning
 3. Github pages 
-4. Github issues 
+4. [Github issues](https://imdac.github.io/modules/git/github-issues/) 
